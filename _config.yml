@@ -15,6 +15,7 @@ markdown: kramdown
 
 # Excludes
 exclude:
+  - "Gruntfile.js"
   - "bower_components"
   - "bower.json"
   - "node_modules"
