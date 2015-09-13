@@ -1,0 +1,17 @@
+{
+  "name": "mike131.github.io",
+  "version": "0.0.0",
+  "homepage": "http://mike131.github.io/",
+  "authors": [
+    "Mike Lee <mikelee131@gmail.com>"
+  ],
+  "description": "Personal blog about my career/tech life",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
