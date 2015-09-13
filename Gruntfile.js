@@ -63,3 +63,8 @@ module.exports = function(grunt) {
   grunt.registerTask("serve", ["build", "connect:server", "watch"]);
   grunt.registerTask("default", ["serve"]);
 };
+
+/**
+ * Jekyll setup from
+ * http://www.aymerick.com/2014/07/22/jekyll-github-pages-bower-bootstrap.html
+ */
