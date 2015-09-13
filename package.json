@@ -1,0 +1,19 @@
+{
+  "name": "mike131.github.io",
+  "version": "1.0.0",
+  "description": "Personal blog about my career/tech life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike131/mike131.github.io.git"
+  },
+  "author": "Mike Lee <mikelee131@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike131/mike131.github.io/issues"
+  },
+  "homepage": "http://mike131.github.io/"
+}
