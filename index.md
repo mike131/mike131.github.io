@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-tagline: Supporting tagline
+tagline:
 ---
 {% include JB/setup %}
 
